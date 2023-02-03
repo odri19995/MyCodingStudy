@@ -1,3 +1,4 @@
+# 숫자의 합 구하기 백준 11720
 n = input()
 numbers = list(input())
 sum = 0
