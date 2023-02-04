@@ -25,7 +25,7 @@ solve()
 #     for _ in range(m):
 #         i,j = map(int, sys.stdin.readline().rstrip().split())
 #         print(s(arr[i-1: j]))
-
+# 합을 구하는 횟수가 많으므로 합배열이 필요하다.
 
 
 # solve()
