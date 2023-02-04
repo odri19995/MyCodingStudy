@@ -2,10 +2,11 @@
 
 
 
-| 제목 | python | java | 내용 |
-| :----------- | :------------: | :------------: |   ------------       |
-| git status   |   git status   |    git status |                      |
-| git diff     |    git diff    |      git diff |                      |
+| 제목 | python | java |
+| :----------- | :------------: | :------------: |
+| 숫자의 합 구하기  |  [code 1]   |   [code 1] |
+| 평균 구하기    |    [code 2]  |      [code 2] |
+| 구간 합 구하기    |    [code 3]  |      [code 3] |
 
 
 
