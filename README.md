@@ -4,9 +4,9 @@
 
 | 제목 | python | java |
 | :----------- | :------------: | :------------: |
-| 숫자의 합 구하기  |  [code 1]   |   [code 1] |
-| 평균 구하기    |    [code 2]  |      [code 2] |
-| 구간 합 구하기    |    [code 3]  |      [code 3] |
+| 숫자의 합 구하기  |  [code 1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code1.py)   |   [code 1](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code1.java) |
+| 평균 구하기    |    [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code2.py)  |      [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code2.java) |
+| 구간 합 구하기    |    [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code3.py)  |      [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code3.java) |
 
 
 
