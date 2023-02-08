@@ -8,6 +8,7 @@
 | 평균 구하기    |    [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code2.py)  |      [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code2.java) |
 | 구간 합 구하기    |    [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code3.py)  |      [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code3.java) |
 | 구간 합 구하기2    |    [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code4.py)  |      [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code4.java) |
+| 나머지 합 구하기   |    [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code5.py)  |      [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code5.java) |
 
 
 
