@@ -2,15 +2,15 @@
 
 
 
-| 제목 | python | java |
-| :----------- | :------------: | :------------: |
-| 숫자의 합 구하기  |  [code 1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code1.py)   |   [code 1](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code1.java) |
-| 평균 구하기    |    [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code2.py)  |      [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code2.java) |
-| 구간 합 구하기    |    [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code3.py)  |      [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code3.java) |
-| 구간 합 구하기2    |    [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code4.py)  |      [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code4.java) |
-| 나머지 합 구하기   |    [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code5.py)  |      [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code5.java) |
-| 연속된 자연수의 합 구하기 (투포인터)   |    [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code6.py)  |      [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code6.java) |
-| 주몽의 명령   |    [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code7.py)  |      [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code7.java) |
+| 제목 | python | java | 백준 번호
+| :----------- | :------------: | :------------: |:------------: |
+| 숫자의 합 구하기  |  [code 1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code1.py)   |   [code 1](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code1.java) |               11720번                         |
+| 평균 구하기    |    [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code2.py)  |      [code 2](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code2.java) |              1546번                         |
+| 구간 합 구하기    |    [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code3.py)  |      [code 3](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code3.java) |              11659번                        |
+| 구간 합 구하기2    |    [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code4.py)  |      [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code4.java) |               11660번                         |
+| 나머지 합 구하기   |    [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code5.py)  |      [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code5.java) |              10986번                          |
+| 연속된 자연수의 합 구하기 (투포인터)   |    [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code6.py)  |      [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code6.java) |               2018번                         |
+| 주몽의 명령   |    [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code7.py)  |      [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code7.java) |               1940번                         |
 
 
 
