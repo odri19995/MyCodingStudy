@@ -10,6 +10,7 @@
 | 구간 합 구하기2    |    [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code4.py)  |      [code 4](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code4.java) |
 | 나머지 합 구하기   |    [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code5.py)  |      [code 5](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code5.java) |
 | 연속된 자연수의 합 구하기 (투포인터)   |    [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code6.py)  |      [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code6.java) |
+| 주몽의 명령   |    [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code7.py)  |      [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code7.java) |
 
 
 
