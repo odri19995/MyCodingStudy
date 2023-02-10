@@ -12,6 +12,7 @@
 | 연속된 자연수의 합 구하기 (투포인터)   |    [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code6.py)  |      [code 6](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code6.java) |               2018번                         |
 | 주몽의 명령   |    [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code7.py)  |      [code 7](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code7.java) |               1940번                         |
 | '좋은 수' 구하기  |    [code 8](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code8.py)  |      [code 8](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code8.java) |               1253번                         |
+| DNA 비밀번호  |    [code 9_1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code9_1.py) [code 9_2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code9_2.py) |      [code 9](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code9.java) |               12891번                         |
 
 
 
