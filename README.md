@@ -14,6 +14,7 @@
 | '좋은 수' 구하기  |    [code 8](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code8.py)  |      [code 8](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code8.java) |               1253번                         |
 | DNA 비밀번호  |    [code 9_1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code9_1.py) [code 9_2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code9_2.py) |      [code 9](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code9.java) |               12891번                         |
 | 최솟값 찾기  |    [code 10](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code10.py)  |      [code 10](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code10.java) |               11003번                         |
+| 스택 수열  |    [code 11](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code11.py)  |      [code 11](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code11.java) |               11003번                         |
 
 
 
