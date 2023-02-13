@@ -16,7 +16,7 @@
 | 최솟값 찾기  |    [code 10](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code10.py)  |      [code 10](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code10.java) |               11003번                         |
 | 스택 수열  |    [code 11](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code11.py)  |      [code 11](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code11.java) |               1874번                         |
 | 오큰수 구하기 |    [code 12](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code12.py)  |      [code 12](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code12.java) |               17298번                         |
-| 카드 게임 |    [code 13](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code13.py)  |      [code 13](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code13.java) |               2164번                         |
+| 카드 2 |    [code 13_1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code13_1.py) [code 13_2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code13_2.py) |      [code 13](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code13.java) |               2164번                         |
 
 
 
