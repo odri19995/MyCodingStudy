@@ -19,9 +19,10 @@
 | 카드 2 |    [code 13_1](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code13_1.py) [code 13_2](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code13_2.py) |      [code 13](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code13.java) |               2164번                         |
 | 절댓값 힙 구현하기 |    [code 14](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code14.py)  |      [code 14](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code14.java) |               11286번                         |
 | 수 정렬하기 1 |    [code 15](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code15.py)  |      [code 15](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code15.java) |               2750번                         |
-| 버블 소트 프로그램 1 |    [code 16](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code16.py)  |      [code 16](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code16.java) |               1377번                         |
-| 소트 인사이드 |    [code 17](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code17.py)  |      [code 17](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code17.java) |               1427번                         |
-| ATM |    [code 18](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code18.py)  |      [code 18](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code18.java) |               11399번                         |
+| 버블 소트 프로그램 1 |    [code 16](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code16.py)  |      [code 16](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code16.java) |               1377번  (버블정렬)                       |
+| 소트 인사이드 |    [code 17](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code17.py)  |      [code 17](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code17.java) |               1427번 (선택정렬)                        |
+| ATM |    [code 18](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code18.py)  |      [code 18](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code18.java) |               11399번 (삽입정렬)                        |
+| K번째 수 구하기 |    [code 19](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code19.py)  |      [code 19](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code19.java) |               11399번 (퀵정렬)                        |
 
 
 ![image](https://user-images.githubusercontent.com/103614919/216539186-5c1faf45-c805-43b1-8dde-c0a4e4f11011.png)
