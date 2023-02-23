@@ -24,6 +24,7 @@
 | ATM |    [code 18](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code18.py)  |      [code 18](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code18.java) |               11399번 (삽입정렬)                        |
 | K번째 수 구하기 |    [code 19](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code19.py)  |      [code 19](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code19.java) |               11399번 (퀵정렬)                        |
 | 수 정렬하기 2 |    [code 20](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code20.py)  |      [code 20](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code20.java) |               2751번 (병합정렬)                        |
+| 버블소트 프로그램 |    [code 21](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code21.py)  |      [code 21](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code21.java) |               1517번 (병합정렬2)                        |                           
 
 
 ![image](https://user-images.githubusercontent.com/103614919/216539186-5c1faf45-c805-43b1-8dde-c0a4e4f11011.png)
