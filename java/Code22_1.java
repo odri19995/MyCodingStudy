@@ -1,11 +1,13 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 
 public class Code22_1 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		int N = Integer.parseInt(br.readLine());
 		int[] count = new int[10001];
 		
@@ -14,13 +16,15 @@ public class Code22_1 {
 			count[number]++;
 		}
 		br.close();
-		for( int i =0; i < 10000; i++) {
+		for( int i =0; i < 10001; i++) {
 			if(count[i] !=0) {
 				for(int j =0; j <count[i]; j++) {
-					System.out.println(i);
+					bw.write(i + "\n");
 				}
 			}
 			
 		}
+		bw.flush();
+		bw.close();
 	}
 }
