@@ -26,5 +26,6 @@
 | 수 정렬하기 2 |    [code 20](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code20.py)  |      [code 20](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code20.java) |               2751번 (병합정렬)                        |
 | 버블소트 프로그램 |    [code 21](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code21.py)  |      [code 21](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code21.java) |               1517번 (병합정렬2)                        |                           
 | 수 정렬하기 3 |    [code 22](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code22.py)  |      [code 22_1](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code22_1.java) [code 22_2](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code22_2.java) |               10989번 (기수정렬,계수정렬)                        |  
+| 연결 요소의 개수 구하기 |    [code 23](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code23.py)  |      [code 23](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code23.java) |          11724번 (깊이우선탐색 DFS)                             |     
 
 ![image](https://user-images.githubusercontent.com/103614919/216539186-5c1faf45-c805-43b1-8dde-c0a4e4f11011.png)
