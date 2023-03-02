@@ -28,5 +28,5 @@
 | 수 정렬하기 3 |    [code 22](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code22.py)  |      [code 22_1](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code22_1.java) [code 22_2](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code22_2.java) |               10989번 (기수정렬,계수정렬)                        |  
 | 연결 요소의 개수 구하기 |    [code 23](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code23.py)  |      [code 23](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code23.java) |          11724번 (깊이우선탐색 DFS)                             | 
 | 신기한 소수 찾기 |    [code 24](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code24.py)  |      [code 24](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code24.java) |          2023번 (깊이우선탐색 DFS)                             |     
-
+| 친구 관계 파악하기 |    [code 25](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code25.py)  |      [code 25](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code25.java) |          13023번 (깊이우선탐색 DFS)                             |   
 ![image](https://user-images.githubusercontent.com/103614919/216539186-5c1faf45-c805-43b1-8dde-c0a4e4f11011.png)
