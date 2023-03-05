@@ -25,16 +25,27 @@ visited = [False] * (N + 1)  # 리스트 초기화
 
 
 def BFS(v):
-    queue = deque()
-    queue.append(v)
-    visited[v] = True
-    while queue:
-        now_Node = queue.popleft()
+    queue = deque() # 탐색경로
+    queue.append(v) #맨 처음값 추가
+    visited[v] = True #방문배열 바꿔주기
+    while queue: # 큐가 비어있을때 까지지
+        now_Node = queue.popleft() # queue에서 연결된 부분을 빼준다. 
         print(now_Node, end=' ')
         for i in A[now_Node]:
             if not visited[i]:
                 visited[i] = True
                 queue.append(i)
+#5 5 3
+# 5 4
+# 5 2
+# 1 2
+# 3 4
+# 3 1
+
+# queue [3] visited[3]= ture-> now_Node =3 ,queue[] -> A[3] = [1,4] -> for i in [1,4] -> visited[1],visited[4] Ture visited =[3,1,4] ,queue= [1,4]
+# while 문으로 queue.popleft queue = [4], now_Node =1, A[1] =[2,3] queue =[4,2] True visited[3,1,4,2] = True
+# while 문으로 queue.popleft queue = [2]now_Node =4, A[4] =[3,5] queue =[2,5] True visited [3,1,4,2,5] =Ture
+# while 문으로 now_ Node =2, while문으로 now_Node =5  Now_Node 값이 나올때마다 출력하면 3 1 4 2 5 가 나온다. 
 
 
 print()
