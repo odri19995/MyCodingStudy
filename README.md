@@ -29,6 +29,8 @@
 | 연결 요소의 개수 구하기 |    [code 23](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code23.py)  |      [code 23](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code23.java) |          11724번 (깊이우선탐색 DFS)                             | 
 | 신기한 소수 찾기 |    [code 24](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code24.py)  |      [code 24](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code24.java) |          2023번 (깊이우선탐색 DFS)                             |     
 | 친구 관계 파악하기 |    [code 25](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code25.py)  |      [code 25](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code25.java) |          13023번 (깊이우선탐색 DFS)                             |  
-| DFS & BSF |    [code 26](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code26.py)  |      [code 26](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code26.java) |          1260번 (DFS & BSF)                             |  
+| DFS & BSF |    [code 26](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code26.py)  |      [code 26](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code26.java) |          1260번 (DFS & BFS)                             |  
+| 미로찾기 |    [code 27](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code27.py)  |      [code 27](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code27.java) |         2178번 (너비 우선 탐색 BFS)                             |
+| 트리의 지름 구하기 |    [code 28](https://github.com/odri19995/MyCodingStudy/blob/main/python/Code28.py)  |      [code 28](https://github.com/odri19995/MyCodingStudy/blob/main/java/Code28.java) |          1167번 (너비 우선 탐색 BFS)                             |  
 
 ![image](https://user-images.githubusercontent.com/103614919/216539186-5c1faf45-c805-43b1-8dde-c0a4e4f11011.png)
